@@ -10,3 +10,9 @@ In nessun orine particolare
 ### Playlist Youtube
 - [Colin Galen Topic Streams](https://www.youtube.com/playlist?list=PLDjGkpToBsYCaRoQ-_S5MRxYMuKgHD62w)
 - [Errichto Dynamic Programming](https://www.youtube.com/playlist?list=PLl0KD3g-oDOGJUdmhFk19LaPgrfmAGQfo)
+
+
+Studia:
+- Segment Trees
+- Number Theory
+- Combinatorics
