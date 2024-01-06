@@ -11,7 +11,7 @@ typedef long long ll;
 using namespace std;
 
 /* 
-Questa funzione è usata per contare quente emote sono presenti nel 
+Questa funzione è usata per contare quante emote sono presenti nel 
 triangolo di dimensione K fino alla riga M. Se M è minore di k posso 
 usare la formula matematica per la somma dei numeri da 1 a N. N*(N+1)/2
 Sennò devo aggiungere alla somma da 1 a K, la somma dei numeri da k+1 a M
