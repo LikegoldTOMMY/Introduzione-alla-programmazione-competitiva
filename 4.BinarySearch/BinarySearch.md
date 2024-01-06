@@ -24,7 +24,7 @@ Ogni volta che questa procedura viene ripetuta la dimensione dell'array viene di
 La formula più intuitiva per calcolare l'elemento centrale è **(L+R)/2**, dove L è l'indice di inizio della parte selezionata e R è la fine. 
 Questa formula però, anche se concettualemente giusta, può portare problemi di overflow, la formula più sicura da usare è **L+(R-L)/2**. ***Usare sempre la seconda formula!***
 ****
-### PsudoCodice
+### PseudoCodice
 
     L = 0, R = N-1
     while L <= R:
