@@ -13,6 +13,6 @@ In nessun orine particolare
 
 
 Studia:
-- Segment Trees
+- [Segment Trees](https://youtu.be/QvgpIX4_vyA?si=wNepmHPADjRtucHO)
 - Number Theory
 - Combinatorics
