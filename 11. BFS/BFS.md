@@ -14,7 +14,7 @@ Questo esempio lo tratteremo in seguito, dopo aver visto come funziona questo al
 ***
 
 ## Complessità
-L'algoritmo è utilizzabile sia su grafi orientati, sia su quelli non orientati e il peso degli archi non influenza la BFS. Esso viene impiegato nell'[Algoritmo di Dijkstra](https://github.com/LikegoldTOMMY/Introduzione-alla-programmazione-competitiva/blob/main/Graphs/Dijkstra.md) (ciò non implica che non si possa usare Dijkstra in una BFS se è necessario trovare il percorso ottimale).
+L'algoritmo è utilizzabile sia su grafi orientati, sia su quelli non orientati e il peso degli archi non influenza la BFS. Esso viene impiegato nell'[Algoritmo di Dijkstra](https://github.com/LikegoldTOMMY/Introduzione-alla-programmazione-competitiva/blob/main/13.%20Dijkstra/Dijkstra.md) (ciò non implica che non si possa usare Dijkstra in una BFS se è necessario trovare il percorso ottimale).
 
 **Dato un grafo G = (*V*, *E*),** in cui *V* è l'insieme dei nodi e *E* è l'insieme degli archi, la complessità dell'algoritmo è:
 > ***O( |V| + |E| )***
