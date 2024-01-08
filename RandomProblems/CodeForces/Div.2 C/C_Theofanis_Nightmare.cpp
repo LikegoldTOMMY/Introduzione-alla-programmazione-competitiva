@@ -1,3 +1,10 @@
+/*
+Autore: Tommaso Ulian
+Data: 05/01/2024
+Problema: Codeforces 1913 C
+Rating: 1400
+Tags: Constructive algorithms, Greedy
+*/
 #include <bits/stdc++.h>
 #pragma GCC optimize("Ofast,no-stack-protector,fast-math",3)
 

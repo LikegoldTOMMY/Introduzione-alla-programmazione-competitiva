@@ -20,7 +20,6 @@ e non ha senso continuare, se invece possiamo inserire T sempre dove S si ripete
 possiamo rispondere di si.
 */
 
-
 int isGood(string s){
     int count = 0;
     for(int i = 1; i < s.length(); i++){

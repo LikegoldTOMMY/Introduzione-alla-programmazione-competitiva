@@ -1,3 +1,10 @@
+/*
+Autore: Tommaso Ulian
+Data: 02/01/2024
+Problema: Codeforces 1917 B
+Rating: 1100
+Tags: Brute Force, Combinatorics, Data Structures, Dp, Strings
+*/
 #include <bits/stdc++.h>
 #pragma GCC optimize("Ofast,no-stack-protector,fast-math",3)
 
