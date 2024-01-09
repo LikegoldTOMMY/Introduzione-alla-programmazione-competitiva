@@ -9,7 +9,8 @@ Per esempio possiamo verificare se un grafo è bipartito, ovvero se è suddivisi
 
 Questo esempio lo tratteremo in seguito, dopo aver visto come funziona questo algoritmo.
 
-
+Utilizziamo come esempio il seguente albero:  
+![Albero]()
 
 ***
 
