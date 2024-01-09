@@ -10,7 +10,8 @@ Per esempio possiamo verificare se un grafo è bipartito, ovvero se è suddivisi
 Questo esempio lo tratteremo in seguito, dopo aver visto come funziona questo algoritmo.
 
 Utilizziamo come esempio il seguente albero:  
-![Albero]()
+<img src="https://github.com/LikegoldTOMMY/Introduzione-alla-programmazione-competitiva/blob/main/Useful%20Files/Graph.png?raw=true)" width="340" height="260">
+
 
 ***
 
