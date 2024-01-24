@@ -23,28 +23,18 @@ void solve(){
     }
     sort(a.begin(),a.end());
     sort(b.begin(), b.end());
-    
-   
     ll d = 0;
     int l2 = 0, r2 = m-1;
     int l1 = 0, r1 = n-1;
     while(l1 <= r1){
-        int q = abs(a[l1]-b[l2]);
         int w = abs(a[l1]-b[r2]);
         int e = abs(a[r1] - b[l2]);
-        int r = abs(a[r1]-b[r2]);
-        int m = max(q,max(w,max(e,r)));
-        if(m == q){
-            l1++; l2++;
-        }
-        else if(m == w){
+        int m = max(w,e);
+        if(m == w){
             l1++; r2--;
         }
         else if(m == e){
             r1--; l2++;
-        }
-        else{
-            r1--; r2--;
         }
         d += m;
     }
