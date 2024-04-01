@@ -105,7 +105,7 @@ Nel caso in cui fosse non orientato bisogna tenere conto dei nodi già visitati 
 ***
 
 ## Complessità
-L'algoritmo è utilizzabile sia su grafi orientati, sia su quelli non orientati e il peso degli archi non influenza la BFS ma viene gestito dall'[Algoritmo di Dijkstra](https://github.com/LikegoldTOMMY/Introduzione-alla-programmazione-competitiva/blob/main/13.%20Dijkstra/Dijkstra.md) e dall'Algoritmo di Bellman-Ford.
+L'algoritmo è utilizzabile sia su grafi orientati, sia su quelli non orientati e il peso degli archi non influenza la BFS, a differenza dell'[Algoritmo di Dijkstra](https://github.com/LikegoldTOMMY/Introduzione-alla-programmazione-competitiva/blob/main/13.%20Dijkstra/Dijkstra.md) e dall'Algoritmo di Bellman-Ford.
 
 **Dato un grafo G = (*V*, *E*),** in cui *V* è l'insieme dei nodi e *E* è l'insieme degli archi, la complessità dell'algoritmo è:
 > ***O( |V| + |E| )***
